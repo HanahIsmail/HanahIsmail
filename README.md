@@ -1,6 +1,8 @@
 ## Hi there! I'm Siti Mumtahanah 👋
 
-![Siti Mumtahanah](img/github-header-image.png)
+<div align="center">
+  <img src="img/github-header-image.png" alt="Siti Mumtahanah">
+</div>
 
 <!--
 **HanahIsmail/HanahIsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
