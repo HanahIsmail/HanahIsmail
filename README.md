@@ -1,4 +1,4 @@
-![Siti Mumtahanah](img/github-header-image.png)
+![Siti Mumtahanah](img/github-header-image_2.png)
 
 # 💫 About Me:
 - 🏫 I'm pursuing my degree in Informatics Engineering at Politeknik Gorontalo.
