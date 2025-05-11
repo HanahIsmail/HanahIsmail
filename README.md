@@ -35,7 +35,7 @@
 
 ---
 
-<h2 align="left">Play games with me</h2>
+## 🎮Play games with me
 
 ###
 
@@ -44,6 +44,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HanahIsmail/HanahIsmail/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HanahIsmail/HanahIsmail/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ###
 
