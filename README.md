@@ -1,7 +1,7 @@
 ![Siti Mumtahanah](img/github-header-image_2.png)
 
 # 💫 About Me:
-- 🏫 I'm pursuing my degree in Informatics Engineering at Politeknik Gorontalo.
+- 🏫 I'm an Informatics Engineering graduate at Politeknik Gorontalo.
 - 🌱 I’m currently learning Laravel Framework and Cloud Computing on Google Cloud Platform (GCP).
 - ⚡ Fun fact: I like watching Chinese dramas and reading novels.
 
